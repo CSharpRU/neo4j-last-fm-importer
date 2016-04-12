@@ -1,0 +1,11 @@
+neo4j:
+  scheme: http
+  host: localhost
+  port: 7474
+  username: neo4j
+  password: neo4j
+lastfm:
+  key: key
+  secret: secret
+  workers: 5
+  pages: 3
